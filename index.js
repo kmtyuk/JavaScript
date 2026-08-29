@@ -1,2 +1,2 @@
 let p = document.getElementById("aaaaa");
-console.log(p.parentNode);
+console.log(p.childNodes);
