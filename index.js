@@ -1,2 +1,2 @@
 let p = document.getElementById("aaaaa");
-p.innerHTML = "書き換えました";
+console.log(p.parentNode);
