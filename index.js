@@ -1,2 +1,2 @@
-let newelement = document.createElement('p');
-document.body.appendChild(newelement);
+let newtextnode = document.createTextNode("新しいテキストノード");
+console.log(newtextnode.nodeValue);
