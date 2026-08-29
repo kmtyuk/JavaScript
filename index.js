@@ -1,2 +1,2 @@
 let newelement = document.createElement('p');
-console.log(newelement);
+document.body.appendChild(newelement);
