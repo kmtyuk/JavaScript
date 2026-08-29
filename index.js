@@ -1,3 +1,2 @@
-let a = document.getElementById('aaaaa');
-console.log(a);
-console.log(a.innerHTML);
+let p = document.getElementById("aaaaa");
+p.innerHTML = "書き換えました";
