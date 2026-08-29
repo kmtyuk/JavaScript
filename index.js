@@ -1,2 +1,3 @@
 let p = document.getElementById("aaaaa");
-console.log(p.childNodes);
+let children = p.childNodes;
+console.log(children.length);
