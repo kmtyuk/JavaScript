@@ -1,3 +1,3 @@
 function aaa() {
-  alert("click");
+  document.form1.input1.value = "test";
 }
